@@ -12,12 +12,6 @@ Cloning the repository
 git clone ...
 ```
 
-Enter cloned directory
-
-```
-cd etl-eng-challenge/
-```
-
 Enter Backend directory and do npm install
 
 ```
