@@ -1,3 +1,5 @@
+Challenge: create a solution to upload data in a single customers table using specified mapping and data files
+
 ### Prerequisites
 
 **Node.js** and **npm** installed on your machine.
